@@ -1,3 +1,6 @@
+# React App to pull OpenEHR temmplate(s) from a CDR
+From the Interopen Care Plan Hackathon 16-17 Dec 2020
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
