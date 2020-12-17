@@ -1,4 +1,4 @@
-# React App to pull OpenEHR temmplate(s) from a CDR
+# React App to pull OpenEHR template(s) from a CDR
 From the Interopen Care Plan Hackathon 16-17 Dec 2020
 
 # Getting Started with Create React App
