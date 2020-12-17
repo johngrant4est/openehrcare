@@ -1,4 +1,4 @@
-# React App to pull OpenEHR template(s) from a CDR
+## React App to pull a [ReSPECT OpenEHR record](https://freshehr.github.io/dhi-proms/dhis/DHIS3-querying-ndp-respect/) from the [Code4Health demo CDR](https://cdr.code4health.org/swagger/index.html?jsonUrl=openehr-rest-api)
 From the Interopen Care Plan Hackathon 16-17 Dec 2020
 
 # Getting Started with Create React App
